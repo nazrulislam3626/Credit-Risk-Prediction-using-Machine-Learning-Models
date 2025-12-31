@@ -2,7 +2,7 @@
 # Credit Risk Prediction using Machine Learning Models
 
 ## Project Overview
-This project focuses on predicting **credit risk (Good vs Bad borrowers)** using structured financial and demographic data. The objective is to evaluate and compare multiple **machine learning classification models** to identify the most reliable and stable model for credit risk assessment.
+This project focuses on predicting **credit risk (Good vs Bad borrowers)** using structured financial and demographic data. The objective is to evaluate and compare multiple **machine learning classification models** to identify the most reliable and stable model for credit risk assessment, on the basis of the dataset(https://raw.githubusercontent.com/alicenkbaytop/German-Credit-Risk-Classification/refs/heads/master/german_credit_risk.csv) 
 
 The project follows an **end-to-end applied machine learning workflow**, covering data preprocessing, exploratory data analysis, feature selection, model training, evaluation, and comparison.
 
