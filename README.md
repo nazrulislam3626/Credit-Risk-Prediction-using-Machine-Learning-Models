@@ -108,3 +108,9 @@ Models were evaluated using:
 - Scikit-learn
 - XGBoost
 - Google Colab
+
+- 
+## Disclaimer and acknowledgement:
+- This project is an applied learning exercise using publicly available datasets(German Credit Risk Dataset)  and is an adaptation of standard methods  as inspired by the mentor, Eng. Golam Rabbany M.Eng in ICT at BUET, WINGS - Institute of Research, Innovation, Incubation( https://wingsiriic.com.bd/).
+
+
